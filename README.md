@@ -1,2 +1,2 @@
 # c6
-Simplify column of gird
+Simplify column of Grid
