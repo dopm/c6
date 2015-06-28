@@ -1,0 +1,8 @@
+{
+  "name": "c6",
+  "description": "c6 — Simplify Column of Grid.",
+  "version": "0.1.0",
+  "styles": [
+    "c6.css"
+  ]
+}
